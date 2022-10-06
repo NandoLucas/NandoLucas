@@ -11,8 +11,8 @@
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 <div align="center">
-  <a href="https://github.com/TeophiloVitor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeophiloVitor&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/NandoLucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoLucas&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  ##
   
