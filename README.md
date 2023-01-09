@@ -1,4 +1,5 @@
 ### Olá, Sou Fernando Lucas 👋
+- ✍️ Técnico em Informática (IFRN)
 - 🏫 Bacharel em Ciências e Tecnologia (UFRN)
 - 💻 Graduando em Engenharia da Computação (UFRN)
 
