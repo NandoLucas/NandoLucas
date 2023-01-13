@@ -5,7 +5,7 @@
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NandoLucas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NandoLucas&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NandoLucas&theme=dark&locale=pt_BR)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NandoLucas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #### 💻 Tech Stack:
