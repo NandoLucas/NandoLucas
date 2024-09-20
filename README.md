@@ -32,4 +32,7 @@
  <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) --> <!-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) -->
 
 #### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nandoluks1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-silva-899922181) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nn4nd0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nandoluks) 
+<code><a href="https://instagram.com/nandoluks1"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="100" height="40"></a></code>
+<code><a href="https://linkedin.com/in/fernando-silva-899922181"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100" height="40"></a></code>
+<code><a href="https://twitch.tv/nn4nd0"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" width="100" height="40"></a></code>
+<code><a href="https://twitter.com/nandoluks"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" width="100" height="40"></a></code>
