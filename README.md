@@ -2,10 +2,10 @@
 ------
 ### Bem vindo ao meu perfil do Github!
 ------
-- ✍️ Técnico em Informática (IFRN)
-- 🏫 Bacharel em Ciências e Tecnologia (UFRN)
-- 💻 Graduando em Engenharia da Computação (UFRN)
-- 💻 Pós-Graduando em Business Intelligence (IMD-UFRN)
+- ✍️ Conclui o curso Técnico em Informática Integrado ao Ensino Médio (IFRN) em 2018.
+- 🏫 Me graduei como Bacharel em Ciências e Tecnologia (UFRN) em 2022.
+- 💻 Desde então Graduando em Engenharia da Computação (UFRN).
+- 💻 Em maio de 2024, adentrei como Pós-Graduando em Business Intelligence (IMD-UFRN).
 
 #### 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NandoLucas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
