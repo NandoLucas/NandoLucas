@@ -2,6 +2,7 @@
 - ✍️ Técnico em Informática (IFRN)
 - 🏫 Bacharel em Ciências e Tecnologia (UFRN)
 - 💻 Graduando em Engenharia da Computação (UFRN)
+- 💻 Pós-Graduando em Business Intelligence (IMD-UFRN)
 
 #### 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NandoLucas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -11,6 +12,9 @@
 #### 💻 Tech Stack:
 ##### Ciência de Dados
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)--> 
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) --> 
 ##### Desenvolvimento Web
