@@ -4,8 +4,8 @@
 - 💻 Graduando em Engenharia da Computação (UFRN)
 
 #### 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NandoLucas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=NandoLucas&theme=dark)](https://git.io/streak-stats)<br/>
+<!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NandoLucas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NandoLucas&theme=dark)](https://git.io/streak-stats)<br/> -->
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NandoLucas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #### 💻 Tech Stack:
